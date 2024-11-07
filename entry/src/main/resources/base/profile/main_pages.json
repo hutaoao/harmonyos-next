@@ -1,0 +1,27 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Second",
+    "pages/TextPage",
+    "pages/ImagePage",
+    "pages/LoginPage",
+    "pages/SvgPage",
+    "pages/ColumnPage",
+    "pages/RowPage",
+    "pages/LayoutWeightPage",
+    "pages/FlexPage",
+    "pages/PositionPage",
+    "pages/StackPage",
+    "pages/CommonAttrPage",
+    "pages/SwiperPage",
+    "pages/ExtendPage",
+    "pages/StylePage",
+    "pages/BuilderPage",
+    "pages/ScrollPage",
+    "pages/TabsPage",
+    "pages/BuilderParamPage",
+    "pages/JueJinPage",
+    "pages/ListPage",
+    "pages/ProvidePage"
+  ]
+}
